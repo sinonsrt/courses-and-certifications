@@ -1,4 +1,4 @@
-# My Academic Life ✅
+# Certifications, Courses and others ✅
 
 Repository to list my `academic life` like certifications, courses and things like that. 🥷
 
