@@ -2,13 +2,6 @@
 
 Repository to list my `academic life` like certifications, courses and things like that. 🥷
 
-## Index 📌
-
-- [Academic Education](#academic-education)
-- [Languages](#languages)
-- [Certifications](#certifications)
-- [Courses](#courses)
-
 ---
 
 ## Academic Education 🎓
