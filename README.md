@@ -26,10 +26,6 @@ Repository to list my `academic life` like certifications, courses and things li
 
 ## Courses ✏️
 
-Below is a list of the courses I completed.
-
----
-
 ### English Language
 
 - KNN's Advanced Course — High Level. *School: [KNN Idiomas Brasil](https://www.knn.com.br/).* Jul/2022.
